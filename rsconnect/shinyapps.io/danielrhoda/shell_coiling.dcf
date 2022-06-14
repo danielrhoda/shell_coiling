@@ -1,0 +1,13 @@
+name: shell_coiling
+title:
+username:
+account: danielrhoda
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6023660
+bundleId: 6008125
+url: https://danielrhoda.shinyapps.io/shell_coiling/
+when: 1655243902.39261
+lastSyncTime: 1655243902.39261
+asMultiple: FALSE
+asStatic: FALSE
