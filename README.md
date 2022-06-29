@@ -5,6 +5,6 @@ https://danielrhoda.shinyapps.io/shell_coiling/
 
 or 
 
-run:
-library(shiny)
+
+library(shiny) ; 
 runGitHub(repo = "shell_coiling", "danielrhoda")
